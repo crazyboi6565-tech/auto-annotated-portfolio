@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: "Welcome to The Viking Hotel - Your comfort stay in the heart of Delhi"
-        btitle: "Located just 5 minutes from New Delhi Railway Station and Connaught Place, The Viking Hotel offers exceptional hospitality, clean and comfortable rooms, and warm service in the vibrant Paharganj area. Rated 8.6/10 - Excellent by our guests."
+        subtibtitle: "Located just 5 minutes from New Delhi Railway Station and Connaught Place, The Viking Hotel offers exceptional hospitality, clean and comfortable rooms, and warm service in the vibrant Paharganj area. Rated 8.6/10 - Excellent by our guests."
       self:
         height: auto
         width: wide
@@ -58,7 +58,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Rooms
+    sususubtitle: Rooms
     styles:
       self:
         height: auto
