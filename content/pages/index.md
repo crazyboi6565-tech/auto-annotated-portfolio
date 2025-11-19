@@ -16,7 +16,8 @@ sections:
     title: >-
 Welcome to The Viking Hotel
       Your comfort stay in the heart of Delhi
-Located just 5 minutes from New Delhi Railway Station and Connaught Place, The Viking Hotel offers exceptional hospitality, clean and comfortable rooms, and warm service in the vibrant Paharganj area. Rated 8.6/10 - Excellent by our guests.
+    subtitle: >-
+      Located just 5 minutes from New Delhi Railway Station and Connaught Place, The Viking Hotel offers exceptional hospitality, clean and comfortable rooms, and warm service in the vibrant Paharganj area. Rated 8.6/10 - Excellent by our guests.
       self:
         height: auto
         width: wide
