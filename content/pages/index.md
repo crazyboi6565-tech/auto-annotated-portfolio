@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/background.jpeg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -39,18 +39,18 @@ sections:
     type: HeroSection
     actions: []
   - colors: colors-f
-    type: FeaturedProjectsSection
+    type: FeaturedRoomsSection
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
-        url: /projects
+        label: See all Rooms
+        url: /Rooms
     showDate: false
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-b
-    projects:
+    Rooms:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
@@ -64,7 +64,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
+    subtitle: Rooms
     styles:
       self:
         height: auto
