@@ -14,13 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
-    styles:
+Welcome to The Viking Hotel
+      Your comfort stay in the heart of Delhi
+Located just 5 minutes from New Delhi Railway Station and Connaught Place, The Viking Hotel offers exceptional hospitality, clean and comfortable rooms, and warm service in the vibrant Paharganj area. Rated 8.6/10 - Excellent by our guests.
       self:
         height: auto
         width: wide
